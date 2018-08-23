@@ -18,3 +18,5 @@
 
 ## 3.直接点击执行.py文件
 * 稍等片刻即可看到识别的结果
+
+# [百度官方SDK文档](http://ai.baidu.com/docs#/OCR-Python-SDK/top)
